@@ -1,5 +1,5 @@
 # Learning to Hide Residual for Boosting Image Compression (BMVC 2021)
-Official PyTorch implementaton of ICRA 2020 paper "[Learning Face Recognition Unsupervisedly by Disentanglement and Self-Augmentation](https://www.bmvc2021-virtualconference.com/assets/papers/0012.pdf)".  
+Official PyTorch implementaton of BMVC 2021 paper "[Learning to Hide Residual for Boosting Image Compression](https://www.bmvc2021-virtualconference.com/assets/papers/0012.pdf)".  
 You can visit our project website [here](https://yilunlee.github.io/hiding_residual/).
 
 ## Introduction
@@ -13,24 +13,30 @@ Lossy compression usually leads to severe compression artifacts, such as blockin
 </div>
 
 ## Usage
+To Do
 ### Enviroment
+To Do
 #### Prerequisites
+To Do
 #### Other requirements
 ```
-
+To Do
 ```
 
 ### Prepare Dataset
+To Do
 
 
 ### Evaluation
 ```
- 
+To Do 
 ```
 
 ### Train
-1. 
+To Do
+
 ```
+To Do
 
 ```
 
